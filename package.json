@@ -1,6 +1,7 @@
 {
   "name": "the_venue",
   "version": "0.1.0",
+  "homepage" : " https://fmgold.github.io/Venue",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^1.5.1",
@@ -12,8 +13,7 @@
     "react-scripts": "3.1.2",
     "react-scroll": "^1.7.9",
     "react-slick": "^0.23.1",
-    "slick-carousel": "^1.8.1",
-    "homepage" : " https://fmgold.github.io/Venue"
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
